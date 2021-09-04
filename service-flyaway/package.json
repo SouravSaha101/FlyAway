@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/SouravSaha101/FlyAway/issues"
   },
-  "homepage": "https://github.com/SouravSaha101/FlyAway#readme"
+  "homepage": "https://github.com/SouravSaha101/FlyAway#readme",
+  "dependencies": {
+    "tedious": "^12.0.0"
+  }
 }
