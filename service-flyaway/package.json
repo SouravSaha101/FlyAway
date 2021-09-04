@@ -1,0 +1,24 @@
+{
+  "name": "service-flyaway",
+  "version": "1.0.0",
+  "description": "Service File of flyaway",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouravSaha101/FlyAway.git"
+  },
+  "keywords": [
+    "Node",
+    "System",
+    "Design"
+  ],
+  "author": "Sourav & Ambika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SouravSaha101/FlyAway/issues"
+  },
+  "homepage": "https://github.com/SouravSaha101/FlyAway#readme"
+}
